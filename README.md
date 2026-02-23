@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: VIKASKUMAR M N</h3>
-<h3>Register Number/: 212224220122</h3>
+<h3>Name: VIKASKUMAR M</h3>
+<h3>Register Number: 212224220122</h3>
 
 
 ## AIM:
